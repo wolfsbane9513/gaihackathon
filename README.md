@@ -19,3 +19,7 @@ Approach -
 4) Generate a general summary of the results returned by FAISS/Redis by the openai API using summarisation model
 5) Based on further probing questions return responses geenrated by the model
 6) Discuss for a generic template of response you would want to look at or respond to end user
+
+
+Run the UI -
+streamlit run app.py
