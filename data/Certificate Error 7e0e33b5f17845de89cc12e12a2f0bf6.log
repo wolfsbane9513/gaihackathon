@@ -1,0 +1,21 @@
+# Certificate Error
+
+## Certificate Error Logs
+
+```
+Timestamp: 2022-05-12 14:30:00
+Error: Certificate has expired
+Details: The certificate used by the application has expired. Please renew the certificate to continue using the application.
+
+```
+
+This error occurred on May 12th, 2022 at 14:30:00. The application encountered a certificate error, where the certificate used by the application had expired. This issue can occur when the certificate used by the application is not renewed before it expires. To continue using the application, the user is advised to renew the certificate. The process of renewing the certificate can be done by contacting the certificate authority or the system administrator.
+
+```
+Timestamp: 2022-05-12 14:32:15
+Error: Certificate is not trusted
+Details: The certificate used by the application is not trusted by the system. Please install the necessary certificates to continue using the application.
+
+```
+
+This error occurred on May 12th, 2022 at 14:32:15. The application encountered a certificate error, where the certificate used by the application was not trusted by the system. This issue can occur when the system does not have the necessary certificates installed to trust the certificate used by the application. To continue using the application, the user is advised to install the necessary certificates. The process of installing certificates can vary depending on the operating system and the application. It is recommended to contact the system administrator or the application support team for assistance.

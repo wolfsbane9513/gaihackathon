@@ -1,0 +1,23 @@
+# Kafka Logs error
+
+## Kafka Logs Error
+
+The following errors have been detected in Kafka logs:
+
+```
+[2022-01-05 08:30:15] [ERROR] [LAG] Timestamp: [insert timestamp here]
+Kafka logs are indicating lag issues. This could be due to a number of factors, including network congestion, insufficient resources, or inefficient configuration. Investigation is needed to identify the root cause and take appropriate measures to resolve it.
+
+```
+
+```
+[2022-01-05 08:34:22] [ERROR] [CONNECTIVITY] Timestamp: [insert timestamp here]
+Kafka logs are indicating connectivity issues. This could be due to network issues, firewall rules, or other factors. Investigation is needed to identify the root cause and take appropriate measures to resolve it.
+
+```
+
+```
+[2022-01-05 08:42:50] [ERROR] [CERTIFICATE_EXPIRATION] Timestamp: [insert timestamp here]
+Kafka logs are indicating that the certificate on the server has expired. This could cause issues with security and authentication. The certificate needs to be renewed or replaced as soon as possible to avoid any potential security vulnerabilities.
+
+```
